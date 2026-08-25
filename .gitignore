@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Model weights / videos — too big for git, share via drive link instead
+*.pt
+*.mp4
+*.avi
+*.mov
+
+# Output
+detections.json
+outputs/
+
+# Training data / runs — too big for git, share dataset link instead
+dataset/
+runs/
+models/*.pt
+
+# OS
+.DS_Store

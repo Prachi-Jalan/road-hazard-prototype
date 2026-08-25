@@ -1,0 +1,492 @@
+[
+  {
+    "hazard_type": "pothole",
+    "confidence": 0.744,
+    "severity": "medium",
+    "frame": 0,
+    "timestamp_ms": 0,
+    "bbox": [
+      239.3,
+      510.0,
+      328.9,
+      591.3
+    ],
+    "source_image": "img-108_jpg.rf.8c144a56a41a5edfd25aabf47d7fcc14.jpg"
+  },
+  {
+    "hazard_type": "pothole",
+    "confidence": 0.737,
+    "severity": "medium",
+    "frame": 0,
+    "timestamp_ms": 0,
+    "bbox": [
+      251.7,
+      178.4,
+      393.0,
+      286.1
+    ],
+    "source_image": "img-108_jpg.rf.8c144a56a41a5edfd25aabf47d7fcc14.jpg"
+  },
+  {
+    "hazard_type": "pothole",
+    "confidence": 0.483,
+    "severity": "low",
+    "frame": 0,
+    "timestamp_ms": 0,
+    "bbox": [
+      455.9,
+      160.1,
+      513.6,
+      198.1
+    ],
+    "source_image": "img-108_jpg.rf.8c144a56a41a5edfd25aabf47d7fcc14.jpg"
+  },
+  {
+    "hazard_type": "pothole",
+    "confidence": 0.293,
+    "severity": "low",
+    "frame": 0,
+    "timestamp_ms": 0,
+    "bbox": [
+      353.7,
+      299.1,
+      383.6,
+      325.8
+    ],
+    "source_image": "img-108_jpg.rf.8c144a56a41a5edfd25aabf47d7fcc14.jpg"
+  },
+  {
+    "hazard_type": "pothole",
+    "confidence": 0.91,
+    "severity": "high",
+    "frame": 1,
+    "timestamp_ms": 1000,
+    "bbox": [
+      267.3,
+      229.6,
+      471.8,
+      370.4
+    ],
+    "source_image": "img-116_jpg.rf.626b2a41e61bce3623def723244c008b.jpg"
+  },
+  {
+    "hazard_type": "pothole",
+    "confidence": 0.574,
+    "severity": "high",
+    "frame": 1,
+    "timestamp_ms": 1000,
+    "bbox": [
+      52.0,
+      422.3,
+      233.5,
+      564.3
+    ],
+    "source_image": "img-116_jpg.rf.626b2a41e61bce3623def723244c008b.jpg"
+  },
+  {
+    "hazard_type": "pothole",
+    "confidence": 0.474,
+    "severity": "medium",
+    "frame": 1,
+    "timestamp_ms": 1000,
+    "bbox": [
+      54.9,
+      422.4,
+      163.6,
+      561.9
+    ],
+    "source_image": "img-116_jpg.rf.626b2a41e61bce3623def723244c008b.jpg"
+  },
+  {
+    "hazard_type": "pothole",
+    "confidence": 0.734,
+    "severity": "medium",
+    "frame": 2,
+    "timestamp_ms": 2000,
+    "bbox": [
+      147.1,
+      207.7,
+      295.9,
+      304.9
+    ],
+    "source_image": "img-121_jpg.rf.335759536e2a7f6fa376fc19ad02a78e.jpg"
+  },
+  {
+    "hazard_type": "pothole",
+    "confidence": 0.677,
+    "severity": "high",
+    "frame": 2,
+    "timestamp_ms": 2000,
+    "bbox": [
+      235.4,
+      316.3,
+      446.6,
+      496.8
+    ],
+    "source_image": "img-121_jpg.rf.335759536e2a7f6fa376fc19ad02a78e.jpg"
+  },
+  {
+    "hazard_type": "pothole",
+    "confidence": 0.756,
+    "severity": "medium",
+    "frame": 3,
+    "timestamp_ms": 3000,
+    "bbox": [
+      276.4,
+      274.8,
+      390.7,
+      373.3
+    ],
+    "source_image": "img-122_jpg.rf.3c10fca1dd5fe37b5fedc7943b53f4f7.jpg"
+  },
+  {
+    "hazard_type": "pothole",
+    "confidence": 0.304,
+    "severity": "medium",
+    "frame": 3,
+    "timestamp_ms": 3000,
+    "bbox": [
+      271.7,
+      274.5,
+      430.3,
+      392.5
+    ],
+    "source_image": "img-122_jpg.rf.3c10fca1dd5fe37b5fedc7943b53f4f7.jpg"
+  },
+  {
+    "hazard_type": "pothole",
+    "confidence": 0.258,
+    "severity": "medium",
+    "frame": 3,
+    "timestamp_ms": 3000,
+    "bbox": [
+      45.9,
+      298.1,
+      113.3,
+      367.7
+    ],
+    "source_image": "img-122_jpg.rf.3c10fca1dd5fe37b5fedc7943b53f4f7.jpg"
+  },
+  {
+    "hazard_type": "pothole",
+    "confidence": 0.7,
+    "severity": "medium",
+    "frame": 4,
+    "timestamp_ms": 4000,
+    "bbox": [
+      279.1,
+      283.0,
+      388.9,
+      359.0
+    ],
+    "source_image": "img-145_jpg.rf.e26723de7db126e43d82f8842ebdcced.jpg"
+  },
+  {
+    "hazard_type": "pothole",
+    "confidence": 0.262,
+    "severity": "low",
+    "frame": 4,
+    "timestamp_ms": 4000,
+    "bbox": [
+      563.8,
+      319.9,
+      638.9,
+      370.5
+    ],
+    "source_image": "img-145_jpg.rf.e26723de7db126e43d82f8842ebdcced.jpg"
+  },
+  {
+    "hazard_type": "pothole",
+    "confidence": 0.789,
+    "severity": "high",
+    "frame": 5,
+    "timestamp_ms": 5000,
+    "bbox": [
+      173.2,
+      217.5,
+      397.4,
+      366.0
+    ],
+    "source_image": "img-146_jpg.rf.362695d227ce7f67ce617d3addb5169d.jpg"
+  },
+  {
+    "hazard_type": "pothole",
+    "confidence": 0.865,
+    "severity": "high",
+    "frame": 6,
+    "timestamp_ms": 6000,
+    "bbox": [
+      194.2,
+      198.2,
+      435.8,
+      316.1
+    ],
+    "source_image": "img-149_jpg.rf.eb867fd6890fcf6dc21127a06054343c.jpg"
+  },
+  {
+    "hazard_type": "pothole",
+    "confidence": 0.533,
+    "severity": "low",
+    "frame": 6,
+    "timestamp_ms": 6000,
+    "bbox": [
+      495.4,
+      198.5,
+      586.3,
+      240.1
+    ],
+    "source_image": "img-149_jpg.rf.eb867fd6890fcf6dc21127a06054343c.jpg"
+  },
+  {
+    "hazard_type": "pothole",
+    "confidence": 0.27,
+    "severity": "low",
+    "frame": 6,
+    "timestamp_ms": 6000,
+    "bbox": [
+      0.9,
+      375.2,
+      46.2,
+      417.8
+    ],
+    "source_image": "img-149_jpg.rf.eb867fd6890fcf6dc21127a06054343c.jpg"
+  },
+  {
+    "hazard_type": "pothole",
+    "confidence": 0.252,
+    "severity": "low",
+    "frame": 6,
+    "timestamp_ms": 6000,
+    "bbox": [
+      108.3,
+      152.6,
+      154.1,
+      179.8
+    ],
+    "source_image": "img-149_jpg.rf.eb867fd6890fcf6dc21127a06054343c.jpg"
+  },
+  {
+    "hazard_type": "pothole",
+    "confidence": 0.961,
+    "severity": "high",
+    "frame": 8,
+    "timestamp_ms": 8000,
+    "bbox": [
+      243.3,
+      227.8,
+      423.5,
+      353.5
+    ],
+    "source_image": "img-167_jpg.rf.197bf464c6f62021f65951697943969c.jpg"
+  },
+  {
+    "hazard_type": "pothole",
+    "confidence": 0.566,
+    "severity": "medium",
+    "frame": 8,
+    "timestamp_ms": 8000,
+    "bbox": [
+      159.0,
+      346.2,
+      280.9,
+      443.3
+    ],
+    "source_image": "img-167_jpg.rf.197bf464c6f62021f65951697943969c.jpg"
+  },
+  {
+    "hazard_type": "pothole",
+    "confidence": 0.883,
+    "severity": "medium",
+    "frame": 9,
+    "timestamp_ms": 9000,
+    "bbox": [
+      208.8,
+      438.6,
+      339.4,
+      517.9
+    ],
+    "source_image": "img-170_jpg.rf.4943dca21a776d141e449313bbd385e4.jpg"
+  },
+  {
+    "hazard_type": "pothole",
+    "confidence": 0.32,
+    "severity": "low",
+    "frame": 9,
+    "timestamp_ms": 9000,
+    "bbox": [
+      376.0,
+      281.0,
+      408.9,
+      296.6
+    ],
+    "source_image": "img-170_jpg.rf.4943dca21a776d141e449313bbd385e4.jpg"
+  },
+  {
+    "hazard_type": "pothole",
+    "confidence": 0.977,
+    "severity": "high",
+    "frame": 10,
+    "timestamp_ms": 10000,
+    "bbox": [
+      216.6,
+      165.0,
+      419.4,
+      297.1
+    ],
+    "source_image": "img-171_jpg.rf.1ca04851f5c63eed65155e30b2e1db93.jpg"
+  },
+  {
+    "hazard_type": "pothole",
+    "confidence": 0.314,
+    "severity": "high",
+    "frame": 10,
+    "timestamp_ms": 10000,
+    "bbox": [
+      215.5,
+      169.2,
+      429.9,
+      345.4
+    ],
+    "source_image": "img-171_jpg.rf.1ca04851f5c63eed65155e30b2e1db93.jpg"
+  },
+  {
+    "hazard_type": "pothole",
+    "confidence": 0.737,
+    "severity": "high",
+    "frame": 11,
+    "timestamp_ms": 11000,
+    "bbox": [
+      181.9,
+      303.4,
+      394.6,
+      466.0
+    ],
+    "source_image": "img-172_jpg.rf.ff5b7b9a1d5f99ba7cff553b6db8c6f6.jpg"
+  },
+  {
+    "hazard_type": "pothole",
+    "confidence": 0.351,
+    "severity": "medium",
+    "frame": 11,
+    "timestamp_ms": 11000,
+    "bbox": [
+      7.4,
+      165.1,
+      100.3,
+      243.7
+    ],
+    "source_image": "img-172_jpg.rf.ff5b7b9a1d5f99ba7cff553b6db8c6f6.jpg"
+  },
+  {
+    "hazard_type": "pothole",
+    "confidence": 0.275,
+    "severity": "low",
+    "frame": 11,
+    "timestamp_ms": 11000,
+    "bbox": [
+      263.8,
+      74.0,
+      340.2,
+      126.5
+    ],
+    "source_image": "img-172_jpg.rf.ff5b7b9a1d5f99ba7cff553b6db8c6f6.jpg"
+  },
+  {
+    "hazard_type": "pothole",
+    "confidence": 0.264,
+    "severity": "high",
+    "frame": 11,
+    "timestamp_ms": 11000,
+    "bbox": [
+      227.9,
+      310.1,
+      429.5,
+      474.4
+    ],
+    "source_image": "img-172_jpg.rf.ff5b7b9a1d5f99ba7cff553b6db8c6f6.jpg"
+  },
+  {
+    "hazard_type": "pothole",
+    "confidence": 0.444,
+    "severity": "high",
+    "frame": 12,
+    "timestamp_ms": 12000,
+    "bbox": [
+      359.0,
+      242.1,
+      498.8,
+      388.8
+    ],
+    "source_image": "img-175_jpg.rf.84031cd33c518d71b6f7c650acbd6069.jpg"
+  },
+  {
+    "hazard_type": "pothole",
+    "confidence": 0.493,
+    "severity": "medium",
+    "frame": 13,
+    "timestamp_ms": 13000,
+    "bbox": [
+      430.4,
+      292.0,
+      527.8,
+      366.6
+    ],
+    "source_image": "img-180_jpg.rf.c79dfdc33cbcaa929893783e8aacb3b2.jpg"
+  },
+  {
+    "hazard_type": "pothole",
+    "confidence": 0.323,
+    "severity": "high",
+    "frame": 13,
+    "timestamp_ms": 13000,
+    "bbox": [
+      367.1,
+      321.8,
+      559.5,
+      453.6
+    ],
+    "source_image": "img-180_jpg.rf.c79dfdc33cbcaa929893783e8aacb3b2.jpg"
+  },
+  {
+    "hazard_type": "pothole",
+    "confidence": 0.287,
+    "severity": "medium",
+    "frame": 13,
+    "timestamp_ms": 13000,
+    "bbox": [
+      437.4,
+      294.3,
+      527.7,
+      344.5
+    ],
+    "source_image": "img-180_jpg.rf.c79dfdc33cbcaa929893783e8aacb3b2.jpg"
+  },
+  {
+    "hazard_type": "pothole",
+    "confidence": 0.404,
+    "severity": "high",
+    "frame": 14,
+    "timestamp_ms": 14000,
+    "bbox": [
+      265.6,
+      240.8,
+      393.2,
+      460.3
+    ],
+    "source_image": "img-182_jpg.rf.2c2c30354349590ba90ee7b5cbb555ac.jpg"
+  },
+  {
+    "hazard_type": "pothole",
+    "confidence": 0.266,
+    "severity": "medium",
+    "frame": 14,
+    "timestamp_ms": 14000,
+    "bbox": [
+      273.2,
+      240.3,
+      395.5,
+      395.1
+    ],
+    "source_image": "img-182_jpg.rf.2c2c30354349590ba90ee7b5cbb555ac.jpg"
+  }
+]
