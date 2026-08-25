@@ -1,0 +1,662 @@
+[
+  {
+    "detection": {
+      "hazard_type": "pothole",
+      "confidence": 0.55,
+      "severity": "high",
+      "frame": 270,
+      "timestamp_ms": 9000,
+      "bbox": [
+        600.0,
+        340.0,
+        619.2,
+        352.0
+      ]
+    },
+    "geo": {
+      "latitude": 12.9720415,
+      "longitude": 77.5973313,
+      "distance_m": 200,
+      "ahead": true,
+      "on_route": true
+    }
+  },
+  {
+    "detection": {
+      "hazard_type": "pothole",
+      "confidence": 0.62,
+      "severity": "high",
+      "frame": 405,
+      "timestamp_ms": 13500,
+      "bbox": [
+        600.0,
+        340.0,
+        625.6,
+        356.0
+      ]
+    },
+    "geo": {
+      "latitude": 12.9720415,
+      "longitude": 77.5973313,
+      "distance_m": 150,
+      "ahead": true,
+      "on_route": true
+    }
+  },
+  {
+    "detection": {
+      "hazard_type": "pothole",
+      "confidence": 0.69,
+      "severity": "high",
+      "frame": 540,
+      "timestamp_ms": 18000,
+      "bbox": [
+        600.0,
+        340.0,
+        638.4,
+        364.0
+      ]
+    },
+    "geo": {
+      "latitude": 12.9720415,
+      "longitude": 77.5973313,
+      "distance_m": 100,
+      "ahead": true,
+      "on_route": true
+    }
+  },
+  {
+    "detection": {
+      "hazard_type": "pothole",
+      "confidence": 0.76,
+      "severity": "high",
+      "frame": 675,
+      "timestamp_ms": 22500,
+      "bbox": [
+        600.0,
+        340.0,
+        676.8,
+        388.0
+      ]
+    },
+    "geo": {
+      "latitude": 12.9720415,
+      "longitude": 77.5973313,
+      "distance_m": 50,
+      "ahead": true,
+      "on_route": true
+    }
+  },
+  {
+    "detection": {
+      "hazard_type": "pothole",
+      "confidence": 0.83,
+      "severity": "high",
+      "frame": 783,
+      "timestamp_ms": 26100,
+      "bbox": [
+        600.0,
+        340.0,
+        984.0,
+        580.0
+      ]
+    },
+    "geo": {
+      "latitude": 12.9720415,
+      "longitude": 77.5973313,
+      "distance_m": 10,
+      "ahead": true,
+      "on_route": true
+    }
+  },
+  {
+    "detection": {
+      "hazard_type": "pothole",
+      "confidence": 0.9,
+      "severity": "high",
+      "frame": 864,
+      "timestamp_ms": 28800,
+      "bbox": [
+        600.0,
+        340.0,
+        984.0,
+        580.0
+      ]
+    },
+    "geo": {
+      "latitude": 12.9720415,
+      "longitude": 77.5973313,
+      "distance_m": 20,
+      "ahead": false,
+      "on_route": true
+    }
+  },
+  {
+    "detection": {
+      "hazard_type": "longitudinal crack",
+      "confidence": 0.55,
+      "severity": "medium",
+      "frame": 1567,
+      "timestamp_ms": 52200,
+      "bbox": [
+        600.0,
+        340.0,
+        619.2,
+        352.0
+      ]
+    },
+    "geo": {
+      "latitude": 12.9730138,
+      "longitude": 77.6016464,
+      "distance_m": 200,
+      "ahead": true,
+      "on_route": true
+    }
+  },
+  {
+    "detection": {
+      "hazard_type": "longitudinal crack",
+      "confidence": 0.62,
+      "severity": "medium",
+      "frame": 1702,
+      "timestamp_ms": 56700,
+      "bbox": [
+        600.0,
+        340.0,
+        625.6,
+        356.0
+      ]
+    },
+    "geo": {
+      "latitude": 12.9730138,
+      "longitude": 77.6016464,
+      "distance_m": 150,
+      "ahead": true,
+      "on_route": true
+    }
+  },
+  {
+    "detection": {
+      "hazard_type": "longitudinal crack",
+      "confidence": 0.69,
+      "severity": "medium",
+      "frame": 1837,
+      "timestamp_ms": 61200,
+      "bbox": [
+        600.0,
+        340.0,
+        638.4,
+        364.0
+      ]
+    },
+    "geo": {
+      "latitude": 12.9730138,
+      "longitude": 77.6016464,
+      "distance_m": 100,
+      "ahead": true,
+      "on_route": true
+    }
+  },
+  {
+    "detection": {
+      "hazard_type": "pothole",
+      "confidence": 0.55,
+      "severity": "high",
+      "frame": 1891,
+      "timestamp_ms": 63000,
+      "bbox": [
+        600.0,
+        340.0,
+        619.2,
+        352.0
+      ]
+    },
+    "geo": {
+      "latitude": 12.9730023,
+      "longitude": 77.6028612,
+      "distance_m": 210,
+      "ahead": true,
+      "on_route": false
+    }
+  },
+  {
+    "detection": {
+      "hazard_type": "longitudinal crack",
+      "confidence": 0.76,
+      "severity": "medium",
+      "frame": 1972,
+      "timestamp_ms": 65700,
+      "bbox": [
+        600.0,
+        340.0,
+        676.8,
+        388.0
+      ]
+    },
+    "geo": {
+      "latitude": 12.9730138,
+      "longitude": 77.6016464,
+      "distance_m": 50,
+      "ahead": true,
+      "on_route": true
+    }
+  },
+  {
+    "detection": {
+      "hazard_type": "pothole",
+      "confidence": 0.62,
+      "severity": "high",
+      "frame": 2027,
+      "timestamp_ms": 67500,
+      "bbox": [
+        600.0,
+        340.0,
+        625.6,
+        356.0
+      ]
+    },
+    "geo": {
+      "latitude": 12.9730023,
+      "longitude": 77.6028612,
+      "distance_m": 161,
+      "ahead": true,
+      "on_route": false
+    }
+  },
+  {
+    "detection": {
+      "hazard_type": "longitudinal crack",
+      "confidence": 0.83,
+      "severity": "medium",
+      "frame": 2081,
+      "timestamp_ms": 69300,
+      "bbox": [
+        600.0,
+        340.0,
+        984.0,
+        580.0
+      ]
+    },
+    "geo": {
+      "latitude": 12.9730138,
+      "longitude": 77.6016464,
+      "distance_m": 10,
+      "ahead": true,
+      "on_route": true
+    }
+  },
+  {
+    "detection": {
+      "hazard_type": "longitudinal crack",
+      "confidence": 0.9,
+      "severity": "medium",
+      "frame": 2162,
+      "timestamp_ms": 72000,
+      "bbox": [
+        600.0,
+        340.0,
+        984.0,
+        580.0
+      ]
+    },
+    "geo": {
+      "latitude": 12.9730138,
+      "longitude": 77.6016464,
+      "distance_m": 20,
+      "ahead": false,
+      "on_route": true
+    }
+  },
+  {
+    "detection": {
+      "hazard_type": "pothole",
+      "confidence": 0.69,
+      "severity": "high",
+      "frame": 2162,
+      "timestamp_ms": 72000,
+      "bbox": [
+        600.0,
+        340.0,
+        638.4,
+        364.0
+      ]
+    },
+    "geo": {
+      "latitude": 12.9730023,
+      "longitude": 77.6028612,
+      "distance_m": 112,
+      "ahead": true,
+      "on_route": false
+    }
+  },
+  {
+    "detection": {
+      "hazard_type": "pothole",
+      "confidence": 0.76,
+      "severity": "high",
+      "frame": 2297,
+      "timestamp_ms": 76500,
+      "bbox": [
+        600.0,
+        340.0,
+        676.8,
+        388.0
+      ]
+    },
+    "geo": {
+      "latitude": 12.9730023,
+      "longitude": 77.6028612,
+      "distance_m": 67,
+      "ahead": true,
+      "on_route": false
+    }
+  },
+  {
+    "detection": {
+      "hazard_type": "pothole",
+      "confidence": 0.83,
+      "severity": "high",
+      "frame": 2405,
+      "timestamp_ms": 80100,
+      "bbox": [
+        600.0,
+        340.0,
+        984.0,
+        580.0
+      ]
+    },
+    "geo": {
+      "latitude": 12.9730023,
+      "longitude": 77.6028612,
+      "distance_m": 46,
+      "ahead": true,
+      "on_route": false
+    }
+  },
+  {
+    "detection": {
+      "hazard_type": "pothole",
+      "confidence": 0.9,
+      "severity": "high",
+      "frame": 2486,
+      "timestamp_ms": 82800,
+      "bbox": [
+        600.0,
+        340.0,
+        984.0,
+        580.0
+      ]
+    },
+    "geo": {
+      "latitude": 12.9730023,
+      "longitude": 77.6028612,
+      "distance_m": 49,
+      "ahead": false,
+      "on_route": false
+    }
+  },
+  {
+    "detection": {
+      "hazard_type": "pothole",
+      "confidence": 0.55,
+      "severity": "high",
+      "frame": 3513,
+      "timestamp_ms": 117000,
+      "bbox": [
+        600.0,
+        340.0,
+        619.2,
+        352.0
+      ]
+    },
+    "geo": {
+      "latitude": 12.9759601,
+      "longitude": 77.6075207,
+      "distance_m": 200,
+      "ahead": true,
+      "on_route": true
+    }
+  },
+  {
+    "detection": {
+      "hazard_type": "pothole",
+      "confidence": 0.62,
+      "severity": "high",
+      "frame": 3648,
+      "timestamp_ms": 121500,
+      "bbox": [
+        600.0,
+        340.0,
+        625.6,
+        356.0
+      ]
+    },
+    "geo": {
+      "latitude": 12.9759601,
+      "longitude": 77.6075207,
+      "distance_m": 150,
+      "ahead": true,
+      "on_route": true
+    }
+  },
+  {
+    "detection": {
+      "hazard_type": "pothole",
+      "confidence": 0.69,
+      "severity": "high",
+      "frame": 3783,
+      "timestamp_ms": 126000,
+      "bbox": [
+        600.0,
+        340.0,
+        638.4,
+        364.0
+      ]
+    },
+    "geo": {
+      "latitude": 12.9759601,
+      "longitude": 77.6075207,
+      "distance_m": 100,
+      "ahead": true,
+      "on_route": true
+    }
+  },
+  {
+    "detection": {
+      "hazard_type": "pothole",
+      "confidence": 0.76,
+      "severity": "high",
+      "frame": 3918,
+      "timestamp_ms": 130500,
+      "bbox": [
+        600.0,
+        340.0,
+        676.8,
+        388.0
+      ]
+    },
+    "geo": {
+      "latitude": 12.9759601,
+      "longitude": 77.6075207,
+      "distance_m": 50,
+      "ahead": true,
+      "on_route": true
+    }
+  },
+  {
+    "detection": {
+      "hazard_type": "pothole",
+      "confidence": 0.83,
+      "severity": "high",
+      "frame": 4027,
+      "timestamp_ms": 134100,
+      "bbox": [
+        600.0,
+        340.0,
+        984.0,
+        580.0
+      ]
+    },
+    "geo": {
+      "latitude": 12.9759601,
+      "longitude": 77.6075207,
+      "distance_m": 10,
+      "ahead": true,
+      "on_route": true
+    }
+  },
+  {
+    "detection": {
+      "hazard_type": "pothole",
+      "confidence": 0.9,
+      "severity": "high",
+      "frame": 4108,
+      "timestamp_ms": 136800,
+      "bbox": [
+        600.0,
+        340.0,
+        984.0,
+        580.0
+      ]
+    },
+    "geo": {
+      "latitude": 12.9759601,
+      "longitude": 77.6075207,
+      "distance_m": 20,
+      "ahead": false,
+      "on_route": true
+    }
+  },
+  {
+    "detection": {
+      "hazard_type": "crocodile crack",
+      "confidence": 0.55,
+      "severity": "medium",
+      "frame": 5135,
+      "timestamp_ms": 171000,
+      "bbox": [
+        600.0,
+        340.0,
+        619.2,
+        352.0
+      ]
+    },
+    "geo": {
+      "latitude": 12.9797649,
+      "longitude": 77.6113914,
+      "distance_m": 200,
+      "ahead": true,
+      "on_route": true
+    }
+  },
+  {
+    "detection": {
+      "hazard_type": "crocodile crack",
+      "confidence": 0.62,
+      "severity": "medium",
+      "frame": 5270,
+      "timestamp_ms": 175500,
+      "bbox": [
+        600.0,
+        340.0,
+        625.6,
+        356.0
+      ]
+    },
+    "geo": {
+      "latitude": 12.9797649,
+      "longitude": 77.6113914,
+      "distance_m": 150,
+      "ahead": true,
+      "on_route": true
+    }
+  },
+  {
+    "detection": {
+      "hazard_type": "crocodile crack",
+      "confidence": 0.69,
+      "severity": "medium",
+      "frame": 5405,
+      "timestamp_ms": 180000,
+      "bbox": [
+        600.0,
+        340.0,
+        638.4,
+        364.0
+      ]
+    },
+    "geo": {
+      "latitude": 12.9797649,
+      "longitude": 77.6113914,
+      "distance_m": 100,
+      "ahead": true,
+      "on_route": true
+    }
+  },
+  {
+    "detection": {
+      "hazard_type": "crocodile crack",
+      "confidence": 0.76,
+      "severity": "medium",
+      "frame": 5540,
+      "timestamp_ms": 184500,
+      "bbox": [
+        600.0,
+        340.0,
+        676.8,
+        388.0
+      ]
+    },
+    "geo": {
+      "latitude": 12.9797649,
+      "longitude": 77.6113914,
+      "distance_m": 50,
+      "ahead": true,
+      "on_route": true
+    }
+  },
+  {
+    "detection": {
+      "hazard_type": "crocodile crack",
+      "confidence": 0.83,
+      "severity": "medium",
+      "frame": 5648,
+      "timestamp_ms": 188100,
+      "bbox": [
+        600.0,
+        340.0,
+        984.0,
+        580.0
+      ]
+    },
+    "geo": {
+      "latitude": 12.9797649,
+      "longitude": 77.6113914,
+      "distance_m": 10,
+      "ahead": true,
+      "on_route": true
+    }
+  },
+  {
+    "detection": {
+      "hazard_type": "crocodile crack",
+      "confidence": 0.9,
+      "severity": "medium",
+      "frame": 5729,
+      "timestamp_ms": 190800,
+      "bbox": [
+        600.0,
+        340.0,
+        984.0,
+        580.0
+      ]
+    },
+    "geo": {
+      "latitude": 12.9797649,
+      "longitude": 77.6113914,
+      "distance_m": 20,
+      "ahead": false,
+      "on_route": true
+    }
+  }
+]
