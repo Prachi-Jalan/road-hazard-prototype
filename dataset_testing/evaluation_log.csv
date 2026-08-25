@@ -1,0 +1,46 @@
+image,actual,threshold,detected,detections
+no_pothole_test_01.jpg,no_pothole,0.3,False,
+no_pothole_test_01.jpg,no_pothole,0.4,False,
+no_pothole_test_01.jpg,no_pothole,0.5,False,
+no_pothole_test_01.jpg,no_pothole,0.6,False,
+no_pothole_test_01.jpg,no_pothole,0.7,False,
+no_pothole_test_02.jpg,no_pothole,0.3,False,
+no_pothole_test_02.jpg,no_pothole,0.4,False,
+no_pothole_test_02.jpg,no_pothole,0.5,False,
+no_pothole_test_02.jpg,no_pothole,0.6,False,
+no_pothole_test_02.jpg,no_pothole,0.7,False,
+no_pothole_test_03.jpg,no_pothole,0.3,True,longitudinal crack:0.406
+no_pothole_test_03.jpg,no_pothole,0.4,True,longitudinal crack:0.406
+no_pothole_test_03.jpg,no_pothole,0.5,False,
+no_pothole_test_03.jpg,no_pothole,0.6,False,
+no_pothole_test_03.jpg,no_pothole,0.7,False,
+pothole_test_01.jpg,pothole,0.3,True,pothole:0.833; pothole:0.565; pothole:0.456
+pothole_test_01.jpg,pothole,0.4,True,pothole:0.833; pothole:0.565; pothole:0.456
+pothole_test_01.jpg,pothole,0.5,True,pothole:0.833; pothole:0.565
+pothole_test_01.jpg,pothole,0.6,True,pothole:0.833
+pothole_test_01.jpg,pothole,0.7,True,pothole:0.833
+pothole_test_02.jpg,pothole,0.3,True,pothole:0.929; pothole:0.882; pothole:0.863; pothole:0.847; pothole:0.841; pothole:0.828; pothole:0.824; pothole:0.801; pothole:0.796; pothole:0.791; pothole:0.786; pothole:0.719; pothole:0.710; pothole:0.599; pothole:0.535; pothole:0.458; pothole:0.316; pothole:0.311
+pothole_test_02.jpg,pothole,0.4,True,pothole:0.929; pothole:0.882; pothole:0.863; pothole:0.847; pothole:0.841; pothole:0.828; pothole:0.824; pothole:0.801; pothole:0.796; pothole:0.791; pothole:0.786; pothole:0.719; pothole:0.710; pothole:0.599; pothole:0.535; pothole:0.458
+pothole_test_02.jpg,pothole,0.5,True,pothole:0.929; pothole:0.882; pothole:0.863; pothole:0.847; pothole:0.841; pothole:0.828; pothole:0.824; pothole:0.801; pothole:0.796; pothole:0.791; pothole:0.786; pothole:0.719; pothole:0.710; pothole:0.599; pothole:0.535
+pothole_test_02.jpg,pothole,0.6,True,pothole:0.929; pothole:0.882; pothole:0.863; pothole:0.847; pothole:0.841; pothole:0.828; pothole:0.824; pothole:0.801; pothole:0.796; pothole:0.791; pothole:0.786; pothole:0.719; pothole:0.710
+pothole_test_02.jpg,pothole,0.7,True,pothole:0.929; pothole:0.882; pothole:0.863; pothole:0.847; pothole:0.841; pothole:0.828; pothole:0.824; pothole:0.801; pothole:0.796; pothole:0.791; pothole:0.786; pothole:0.719; pothole:0.710
+pothole_test_03.jpg,pothole,0.3,True,pothole:0.869
+pothole_test_03.jpg,pothole,0.4,True,pothole:0.869
+pothole_test_03.jpg,pothole,0.5,True,pothole:0.869
+pothole_test_03.jpg,pothole,0.6,True,pothole:0.869
+pothole_test_03.jpg,pothole,0.7,True,pothole:0.869
+pothole_test_04.jpg,pothole,0.3,True,pothole:0.900; pothole:0.885; pothole:0.840; pothole:0.781; pothole:0.748; pothole:0.687; pothole:0.665; pothole:0.591; pothole:0.498; pothole:0.473; pothole:0.445; pothole:0.380; pothole:0.306; pothole:0.304
+pothole_test_04.jpg,pothole,0.4,True,pothole:0.900; pothole:0.885; pothole:0.840; pothole:0.781; pothole:0.748; pothole:0.687; pothole:0.665; pothole:0.591; pothole:0.498; pothole:0.473; pothole:0.445
+pothole_test_04.jpg,pothole,0.5,True,pothole:0.900; pothole:0.885; pothole:0.840; pothole:0.781; pothole:0.748; pothole:0.687; pothole:0.665; pothole:0.591
+pothole_test_04.jpg,pothole,0.6,True,pothole:0.900; pothole:0.885; pothole:0.840; pothole:0.781; pothole:0.748; pothole:0.687; pothole:0.665
+pothole_test_04.jpg,pothole,0.7,True,pothole:0.900; pothole:0.885; pothole:0.840; pothole:0.781; pothole:0.748
+pothole_test_05.jpg,pothole,0.3,True,pothole:0.800; pothole:0.566; pothole:0.337
+pothole_test_05.jpg,pothole,0.4,True,pothole:0.800; pothole:0.566
+pothole_test_05.jpg,pothole,0.5,True,pothole:0.800; pothole:0.566
+pothole_test_05.jpg,pothole,0.6,True,pothole:0.800
+pothole_test_05.jpg,pothole,0.7,True,pothole:0.800
+pothole_test_06.jpg,pothole,0.3,True,pothole:0.699; pothole:0.665; pothole:0.568; pothole:0.425; pothole:0.389; pothole:0.364; pothole:0.326
+pothole_test_06.jpg,pothole,0.4,True,pothole:0.699; pothole:0.665; pothole:0.568; pothole:0.425
+pothole_test_06.jpg,pothole,0.5,True,pothole:0.699; pothole:0.665; pothole:0.568
+pothole_test_06.jpg,pothole,0.6,True,pothole:0.699; pothole:0.665
+pothole_test_06.jpg,pothole,0.7,False,
