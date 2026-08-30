@@ -12,7 +12,7 @@ import json
 import cv2
 from ultralytics import YOLO
 
-CONF_THRESHOLD = 0.4
+CONF_THRESHOLD = 0.5
 FRAME_SKIP = 5
 IOU_DEDUP_THRESHOLD = 0.5
 DEDUP_MEMORY_FRAMES = 30
